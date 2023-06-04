@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/Hatchi091.github.io/static/css/main.9773e793.css",
-    "main.js": "/Hatchi091.github.io/static/js/main.5e79b872.js",
-    "static/media/cars3.jpg": "/Hatchi091.github.io/static/media/cars3.48593537763617144a3d.jpg",
-    "static/media/cars2.jpg": "/Hatchi091.github.io/static/media/cars2.d75a1a38f8321e519b7a.jpg",
-    "static/media/car4.jpg": "/Hatchi091.github.io/static/media/car4.c3c458c485e5aca33b11.jpg",
-    "static/media/cars.jpg": "/Hatchi091.github.io/static/media/cars.37fb66e4fa7937c16169.jpg",
-    "static/media/car.jpg": "/Hatchi091.github.io/static/media/car.c275d4bb83ffeda65f31.jpg",
-    "static/media/car3.jpg": "/Hatchi091.github.io/static/media/car3.dbfcb2cefef90a52707f.jpg",
-    "static/media/cars6.jpg": "/Hatchi091.github.io/static/media/cars6.e72b8071909a3b8f8501.jpg",
-    "static/media/serv.jpg": "/Hatchi091.github.io/static/media/serv.8d388db082dd0274ac12.jpg",
-    "static/media/cars4.jpg": "/Hatchi091.github.io/static/media/cars4.fa203b933a7ec8bc3963.jpg",
-    "static/media/car2.jpg": "/Hatchi091.github.io/static/media/car2.573a74bd4fb934ead514.jpg",
-    "static/media/cars5.jpg": "/Hatchi091.github.io/static/media/cars5.7203a15b81d4e8d1e15e.jpg",
-    "static/media/logo4.png": "/Hatchi091.github.io/static/media/logo4.c56ccd25830e02e33ebf.png",
-    "static/media/logo3.png": "/Hatchi091.github.io/static/media/logo3.48ded2df897d4a0b6257.png",
-    "static/media/logo.png": "/Hatchi091.github.io/static/media/logo.0bd2a2bc17d5c0ca3146.png",
-    "static/media/logo1.png": "/Hatchi091.github.io/static/media/logo1.4fecff5b849fee00afae.png",
-    "static/media/logo6.png": "/Hatchi091.github.io/static/media/logo6.8116773b690fa6282980.png",
-    "static/media/logo5.png": "/Hatchi091.github.io/static/media/logo5.acb480e331c60f608737.png",
-    "index.html": "/Hatchi091.github.io/index.html",
-    "main.9773e793.css.map": "/Hatchi091.github.io/static/css/main.9773e793.css.map",
-    "main.5e79b872.js.map": "/Hatchi091.github.io/static/js/main.5e79b872.js.map"
+    "main.css": "/static/css/main.9773e793.css",
+    "main.js": "/static/js/main.319c7959.js",
+    "static/media/cars3.jpg": "/static/media/cars3.48593537763617144a3d.jpg",
+    "static/media/cars2.jpg": "/static/media/cars2.d75a1a38f8321e519b7a.jpg",
+    "static/media/car4.jpg": "/static/media/car4.c3c458c485e5aca33b11.jpg",
+    "static/media/cars.jpg": "/static/media/cars.37fb66e4fa7937c16169.jpg",
+    "static/media/car.jpg": "/static/media/car.c275d4bb83ffeda65f31.jpg",
+    "static/media/car3.jpg": "/static/media/car3.dbfcb2cefef90a52707f.jpg",
+    "static/media/cars6.jpg": "/static/media/cars6.e72b8071909a3b8f8501.jpg",
+    "static/media/serv.jpg": "/static/media/serv.8d388db082dd0274ac12.jpg",
+    "static/media/cars4.jpg": "/static/media/cars4.fa203b933a7ec8bc3963.jpg",
+    "static/media/car2.jpg": "/static/media/car2.573a74bd4fb934ead514.jpg",
+    "static/media/cars5.jpg": "/static/media/cars5.7203a15b81d4e8d1e15e.jpg",
+    "static/media/logo4.png": "/static/media/logo4.c56ccd25830e02e33ebf.png",
+    "static/media/logo3.png": "/static/media/logo3.48ded2df897d4a0b6257.png",
+    "static/media/logo.png": "/static/media/logo.0bd2a2bc17d5c0ca3146.png",
+    "static/media/logo1.png": "/static/media/logo1.4fecff5b849fee00afae.png",
+    "static/media/logo6.png": "/static/media/logo6.8116773b690fa6282980.png",
+    "static/media/logo5.png": "/static/media/logo5.acb480e331c60f608737.png",
+    "index.html": "/index.html",
+    "main.9773e793.css.map": "/static/css/main.9773e793.css.map",
+    "main.319c7959.js.map": "/static/js/main.319c7959.js.map"
   },
   "entrypoints": [
     "static/css/main.9773e793.css",
-    "static/js/main.5e79b872.js"
+    "static/js/main.319c7959.js"
   ]
 }
